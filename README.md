@@ -218,11 +218,3 @@ Email: [wirapongc@kku.ac.th](mailto:wirapongc@kku.ac.th)
 
 This project is for **academic and research purposes**.
 Please contact the author for reuse or redistribution permissions.
-
----
-
-If you want, I can also:
-
-* Convert this into a **GitHub Markdown README.md (with badges & visuals)**
-* Add **workflow diagrams (publication-ready)**
-* Or align it with **Elsevier / Springer reproducibility standards**
