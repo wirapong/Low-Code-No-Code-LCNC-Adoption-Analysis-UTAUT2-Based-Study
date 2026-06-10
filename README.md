@@ -8,7 +8,7 @@
 
 This repository contains the **data analysis pipeline and research manuscript** for the study:
 
-> **“Factors Affecting Behavioral Intention to Use Low-Code/No-Code Platforms: An Empirical Investigation Based on the UTAUT2 Framework”** 
+> **“From Intention to Adoption: A UTAUT2-Based Analysis of Low-Code/No-Code Platforms with Mediating Effects of Privacy and Trust”** 
 
 The project investigates **individual-level determinants of LCNC platform adoption** using an extended **UTAUT2 model**, incorporating:
 
@@ -28,8 +28,8 @@ The study uses **quantitative survey data (N = 411)** and applies **multiple lin
 ## 📂 Repository Structure
 
 ```
-├── lcnc_analysis.ipynb        # Main Python analysis pipeline (Colab-ready)
-├── research_article.md        # Full research manuscript (journal-ready)
+├── lcnc_analysis_colab.ipynb  # Main Python analysis pipeline (Colab-ready)
+├── LowCode_NoCode.sav         # Full dataset (SPSS format file)
 ├── README.txt                 # Project documentation (this file)
 ```
 
