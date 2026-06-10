@@ -30,6 +30,8 @@ The study uses **quantitative survey data (N = 411)** and applies **multiple lin
 ```
 ├── lcnc_analysis_colab.ipynb  # Main Python analysis pipeline (Colab-ready)
 ├── LowCode_NoCode.sav         # Full dataset (SPSS format file)
+├── GoogleForm.pdf             # Survey instruments and protocols
+├── IRB_HE683119.pdf           # KKUEC's Exemption Determination Regulations
 ├── README.txt                 # Project documentation (this file)
 ```
 
