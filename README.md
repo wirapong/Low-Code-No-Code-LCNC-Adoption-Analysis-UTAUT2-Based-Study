@@ -200,8 +200,7 @@ If you use this repository, please cite:
 
 ```
 Chansanam, W. (2026).
-Factors Affecting Behavioral Intention to Use Low-Code/No-Code Platforms:
-An Empirical Investigation Based on the UTAUT2 Framework.
+From Intention to Adoption: A UTAUT2-Based Analysis of Low-Code/No-Code Platforms with Mediating Effects of Privacy and Trust.
 ```
 
 ---
