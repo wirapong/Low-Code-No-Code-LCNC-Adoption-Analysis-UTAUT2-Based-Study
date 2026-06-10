@@ -109,7 +109,7 @@ pip install pandas numpy scipy statsmodels pingouin matplotlib seaborn
 1. Open the notebook:
 
    ```
-   lcnc_analysis.ipynb
+   lcnc_analysis_colab.ipynb
    ```
 
 2. Run all cells sequentially:
